@@ -11,10 +11,11 @@ def add_numbers(a: int, b: int) -> int:
   return n1 + n2
 ```
 
-Here we are telling python to receive two arguments whose types are Integers. `-> int` means it's returning an intefer value
+Here we are telling python to receive two arguments whose types are Integers. `-> int` means it's returning an integer value
 
-for more info, visit here: https://realpython.com/python-type-checking/
-
+Anyways, for more info, visit here: https://realpython.com/python-type-checking/
+Would really like if you read full explanation from there. You learn❗ 😄
+ 
 ## How does it work?
 
 ```py
