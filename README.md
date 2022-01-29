@@ -16,6 +16,10 @@ Here we are telling python to receive two arguments whose types are Integers. \
 
 Anyways, for more info, visit here: https://realpython.com/python-type-checking/. \
 Would really like if you read full explanation from there. You learn❗ 😄
+
+- Hola
+- Si
+- Gente
  
 ## How does it work?
 
@@ -25,8 +29,4 @@ Would really like if you read full explanation from there. You learn❗ 😄
 def my_func(name: str):
     print(f"hello {name}!")
 ```
-
-This is the syntax to use it.
-
-- [ ] \(Optional) hello world
-- [ ] yes
+`name` is `str`. If you set a different type, the exception will occur. 
