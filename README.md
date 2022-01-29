@@ -17,7 +17,7 @@ Here we are telling python to receive two arguments whose types are Integers. \
 Anyways, for more info, visit here: https://realpython.com/python-type-checking/. \
 Would really like if you read full explanation from there. You learn❗ 😄
 
-- Hola
+- [xd](https://google.com)
 - Si
 - Gente
  
