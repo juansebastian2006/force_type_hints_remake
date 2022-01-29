@@ -26,3 +26,6 @@ def my_func(name: str):
 ```
 
 This is the syntax to use it.
+
+- [x] hello world
+- [ ] yes
