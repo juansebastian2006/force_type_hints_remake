@@ -27,5 +27,5 @@ def my_func(name: str):
 
 This is the syntax to use it.
 
-- [ ] hello world
+- [ ] \(Optional) hello world
 - [ ] yes
