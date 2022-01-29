@@ -18,6 +18,7 @@ Here we are telling python to receive two arguments whose types are Integers. \
 - [Real Python Tutorial](https://realpython.com/python-type-checking/)
 - [docs Python Tutorial](https://docs.python.org/3/library/typing.html)
 - [MyPy read the docs Tutorial](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
+- [Tech With Tim video](https://www.youtube.com/watch?v=QORvB-_mbZ0)
  
 ## How does it work?
 
